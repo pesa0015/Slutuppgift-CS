@@ -1,1 +1,6 @@
 c:\users\peter\documents\visual studio 2013\Projects\Slutuppgift\Slutuppgift\bin\Debug\Slutuppgift.exe.config
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\Slutuppgift\Slutuppgift\bin\Debug\Slutuppgift.exe
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\Slutuppgift\Slutuppgift\bin\Debug\Slutuppgift.pdb
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\Slutuppgift\Slutuppgift\obj\Debug\Slutuppgift.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\Slutuppgift\Slutuppgift\obj\Debug\Slutuppgift.exe
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\Slutuppgift\Slutuppgift\obj\Debug\Slutuppgift.pdb
